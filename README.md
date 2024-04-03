@@ -1,1 +1,1 @@
-# Diabetes-prediction-kk4
+# Diabetes-prediction
